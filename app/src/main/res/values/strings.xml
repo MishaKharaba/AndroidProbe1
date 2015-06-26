@@ -6,4 +6,5 @@
     <string name="enter_text">Enter text</string>
     <string name="title_activity_display_message">Message</string>
     <string name="send">Send</string>
+    <string name="action_search">Search</string>
 </resources>
